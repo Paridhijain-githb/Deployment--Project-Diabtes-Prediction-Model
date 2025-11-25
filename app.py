@@ -8,7 +8,7 @@ st.set_page_config(page_title="Diabetes Prediction WebPage",layout='wide')
 
 # Set the page tile
 st.title("Diabetes Prediction Project")
-st.subheader("By Sindhura Kuntamukkula")
+st.subheader("By Paridhi Jain")
 st.subheader("Provide your test results below, and click on Predict button to view the Diabetes results")
 
 # Take all the required inputs from the user
